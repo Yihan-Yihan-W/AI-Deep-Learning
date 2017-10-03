@@ -1,2 +1,2 @@
-# hello_world
-Trial
+# AI & Deep Learning
+some practices from coursera
